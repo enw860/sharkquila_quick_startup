@@ -51,7 +51,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "morgan": "^1.10.0",
-    "sharkquila_ui_toolkit": "^1.1.4"
+    "sharkquila_ui_toolkit": "^1.1.5"
   },
   "author": "Enhao Wu",
   "license": "MIT"
