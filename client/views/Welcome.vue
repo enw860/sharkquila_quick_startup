@@ -1,5 +1,5 @@
 <style lang="less">
-@import "../style/theme.less";
+@import "../style/style.less";
 
 .Welcome-wrapper {
 	width: 100vw;
@@ -45,8 +45,8 @@ export default {
 	},
 	methods: {
 		goGithub: function (event) {
-			const url = "https://github.com/enw860/sharkquila_ui_demo";
-			window.location.href = url;
+			const url = "https://sharkquila-ui.herokuapp.com/";
+			window.open(url, "_blank").focus();
 		},
 	},
 	mounted: function () {
