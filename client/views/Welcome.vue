@@ -1,5 +1,5 @@
 <style lang="less">
-@import "../style/style.less";
+@import "../style/theme.less";
 
 .Welcome-wrapper {
 	width: 100vw;
