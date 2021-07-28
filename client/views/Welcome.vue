@@ -4,6 +4,7 @@
 .Welcome-wrapper {
 	width: 100vw;
 	height: 100vh;
+	max-height: -webkit-fill-available;
 }
 
 .Username {
